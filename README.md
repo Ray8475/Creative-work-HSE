@@ -7,4 +7,4 @@
 ##### _6. Гистограммы_
 ##### _7. Работа с географическими данными_
 ##### _8. Заключение_
-![image](https://github.com/user-attachments/assets/2b122ed3-b5f0-4533-b777-5c8309ca22ec)
+![image](https://github.com/user-attachments/assets/b888e727-6205-44f1-805c-f70777f7c186)
